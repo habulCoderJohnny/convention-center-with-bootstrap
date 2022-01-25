@@ -2,9 +2,10 @@
 .font-family {
 font-family: 'Poppins', sans-serif;}
 
+
 .cards {
     border: none;
-    border-radius: 30px;
+    border-radius: 28px;
 }
 
 .package-button {
